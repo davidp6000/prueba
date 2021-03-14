@@ -1,5 +1,5 @@
 <?php
-
+$nueva_variable;
 function comprobar_sesion() {
     /*
      * Para comprobar que sólo pueden acceder a la aplicación los usuarios que hayan hecho login.
